@@ -1,0 +1,4 @@
+response.html
+*.xlsx
+__pycache__/
+.DS_Store
